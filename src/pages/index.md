@@ -6,11 +6,10 @@ sections:
     section_id: hero_section
     background_image: images/153334751_720664438633199_215543831182070728_n.png
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
+    content: |
+      # Real beauty at high quality standards for an affordable price
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      explore the collections today
     actions:
       - title: See all items
         url: /store
