@@ -28,7 +28,7 @@ sections:
 
             - All discounted items sales are final.
             - If you’d like another version of your item, please use the return label. Instructions are printed on its back.
-            - If your item is damaged or not functioning correctly, email us at info@planty.com, and we’ll refund you + send you a new one ASAP!
+            - If your item is damaged or not functioning correctly, email us at info@Lazuli.com, and we’ll refund you + send you a new one ASAP!
       - question: How do you handle sensitive customer information?
         answer: >-
           [GDPR](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f&rid=giphy.gif),
@@ -37,7 +37,7 @@ sections:
           and DPA](http://bit.ly/2YJwlyt).
       - question: Rapid-fire questions
         answer: >-
-          Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
+          Q: Why is this Lazuli theme so beautiful? <br /> A: We hired our first
           designer a couple of months ago. <br /><br /> Q: Why did you build a
           theme for Stackbit? <br /> A: We believe in Stackbit’s promise of
           opening up the JAMstack to more developers. Plus, we trust these
