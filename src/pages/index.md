@@ -59,17 +59,17 @@ sections:
       style: secondary
       arrow: true
 seo:
-  title: Planty Theme
-  description: The preview of the Planty theme
+  title: Lazuli Theme
+  description: The preview of the Lazuli theme
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Planty Theme
+      value: Lazuli Theme
       keyName: property
     - name: 'og:description'
-      value: The preview of the Planty theme
+      value: The preview of the Lazuli theme
       keyName: property
     - name: 'og:image'
       value: images/header.jpg
